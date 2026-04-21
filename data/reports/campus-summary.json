@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-04-21T11:59:11.465Z",
+  "source": "M:\\MyTest\\archived\\schoolwork\\web-3d-map\\data\\tmp.json",
+  "total": 1145,
+  "kept": 802,
+  "buildings": 208,
+  "roads": 540,
+  "lakes": 5,
+  "rivers": 0,
+  "boundaries": 0,
+  "greenery": 42,
+  "sites": {
+    "total": 7,
+    "byCategory": {
+      "parking": 4,
+      "swimming_pool": 3
+    }
+  },
+  "filtered": 343,
+  "missingElevation": 0,
+  "categories": {
+    "默认": 90,
+    "体育馆": 1,
+    "宿舍": 117
+  },
+  "waterTypes": {
+    "water": 3,
+    "river": 1,
+    "pond": 1
+  }
+}
